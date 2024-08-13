@@ -1,0 +1,36 @@
+.infoBlock {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.infoContiner {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 40px;
+  width: 779px;
+  padding: 50px;
+}
+.infoContiner span {
+  display: flex;
+  width: 779px;
+  height: 2px;
+  background: #231f21;
+}
+.infoContent {
+  display: flex;
+  gap: 13px;
+}
+.infoContent span {
+  width: 2px;
+  height: 38.08px;
+  background: #03927e;
+}
+.infoContent p {
+  font-weight: bold;
+}
+.infoLine {
+  width: 100%;
+  height: 20px;
+  background: #03927e;
+}

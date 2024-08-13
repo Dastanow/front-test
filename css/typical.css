@@ -1,0 +1,43 @@
+.typicalBlock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 100px;
+}
+.typicalBlock img {
+  width: 100%;
+  margin-top: 40px;
+}
+.typicalBlock h2 {
+  font-size: 40px;
+  font-weight: 400;
+}
+.typicalLine {
+  width: 79px;
+  height: 77px;
+  background: linear-gradient(
+    123deg,
+    rgba(252, 254, 255, 0.2) 30.49%,
+    rgba(252, 254, 255, 0.05) 74.05%
+  );
+  backdrop-filter: blur(20px);
+
+  position: relative;
+  top: -460px;
+}
+.typicalLine {
+  font-size: 30px;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+.typicalLine p {
+  font-size: 14px;
+}
+/* .modal img {
+  width: 1240px;
+  height: 971.39px;
+  position: relative;
+  display: none;
+} */

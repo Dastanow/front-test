@@ -1,0 +1,81 @@
+.contactsBlock {
+  width: 100%;
+  background: #22201f;
+  position: relative;
+  top: -80px;
+  height: 497px;
+  padding-top: 80px;
+}
+.contactsCantiner {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  gap: 50px;
+}
+.contactsCantiner h2 {
+  font-size: 42px;
+  font-weight: 400;
+  color: #fff;
+}
+.contactsCantiner input {
+    background: #22201F;
+    border: none;
+    outline: none;
+}
+.contactsCantiner placeholder {
+  color: #fff;
+}
+.contactsCantiner span {
+    display: flex;
+    width: 340px;
+}
+.contactsInput {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.contactsInput span {
+    gap: 20px;
+    background: #22201F;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #8c8b8b;
+    padding: 10px 0;
+}
+.contactsThird {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    gap: 20px;
+}
+.contactsThird p {
+    position: relative;
+    margin-top: 15px;
+}
+.contactsThird img {
+    width: 50px;
+   margin-top: 15px;
+}
+.contactsBlockTwo {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    color: #fff;
+}
+.contactsBlockTwo p {
+    font-size: 14px;
+    font-weight: 400;
+}
+.contactsBlockTwo img {
+    width: 16px;
+    height: 18px;
+}
+.circle {
+    width: 50px;
+    height: 50px;
+    background-color: #009688; 
+    border-radius: 50%;
+    position: absolute;
+    margin-right: 130px;
+    }

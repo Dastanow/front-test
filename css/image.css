@@ -1,0 +1,22 @@
+.photoBlock {
+    width: 100%;
+}
+.photoConteiner {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+.photoConteiner h2 {
+    font-size: 40px;
+}
+.photoConteiner button {
+    border: none;
+    background-color: #fff;
+}
+.photoImg {
+    margin-top: 40px;
+}
+
+

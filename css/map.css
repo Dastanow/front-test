@@ -1,0 +1,37 @@
+.mapBlock {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mapBlockContainer img {
+    width: 100%;
+}
+.mapBlockContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 100px;
+    gap: 40px;
+    text-align: center;
+}
+.mapBlockContainer h2 {
+    font-size: 40px;
+}
+.mapBlockContainer h3 {
+    font-size: 22px;
+}
+.mapBlockContainer span {
+    width: 848px;
+height: 2px;
+background: #231F21;
+}
+.mapBlockContainer p {
+    font-size: 14px;
+}
+.mapBlockTitle {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
